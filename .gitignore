@@ -1,0 +1,13 @@
+build
+*CACHE*
+dist
+MANIFEST
+*.pyc
+*.egg-info
+*.egg
+*.sqlite3
+docs/_build/
+.DS_Store
+.idea
+*/media/*
+*/migrations/*
